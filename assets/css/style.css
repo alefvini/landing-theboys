@@ -138,7 +138,6 @@ footer .cards {
 .cards .card {
     height: 180px;
     max-width: 300px;
-    
     box-shadow: 12px 0px 32px 2px black;
     margin-left: -120px;
     cursor: pointer;
